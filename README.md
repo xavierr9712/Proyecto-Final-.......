@@ -202,7 +202,7 @@ Se utilizan estructuras como matrices, listas, colas, pilas, mapas y conjuntos p
 
 **Visualización Tabla De Resultados:**
 
-![alt text](<Screenshot 2025-07-27 171310.png>)
+![alt text](<Screenshot 2025-07-27 171310-1.png>)
 
 **Visualización Grafica De Resultados:** 
 
