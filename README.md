@@ -160,7 +160,7 @@ Se utilizan estructuras como matrices, listas, colas, pilas, mapas y conjuntos p
 ## Capturas de Pantalla
 
 - **Interfaz Principal:**  
-![Interfaz](image.png)
+![alt text](<Interfaz Principal.png>)
 
 **olacamos Incion y Fin:** 
 
