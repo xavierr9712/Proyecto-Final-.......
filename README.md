@@ -174,43 +174,39 @@ Se utilizan estructuras como matrices, listas, colas, pilas, mapas y conjuntos p
 
 ![alt text](<Screenshot 2025-07-27 170555.png>)
 
-![alt text](image-4.png)
+![alt text](<Screenshot 2025-07-27 170638.png>)
 
 **Visualización DFS:** 
 
-![alt text](image-5.png)
+![alt text](<Screenshot 2025-07-27 170722.png>)
 
-![alt text](image-6.png)
+![alt text](<Screenshot 2025-07-27 170800.png>)
 
 **Visualización Reculsivo:** 
 
-![alt text](image-7.png)
+![alt text](<Screenshot 2025-07-27 170847.png>)
 
-![alt text](image-8.png)
+![alt text](<Screenshot 2025-07-27 170928.png>)
 
 **Visualización Reculsivo Completo:** 
 
-![alt text](image-9.png)
+![alt text](<Screenshot 2025-07-27 171004.png>)
 
-![alt text](image-10.png)
+![alt text](<Screenshot 2025-07-27 171035.png>)
 
 **Visualización Reculsivo Completo BT:**
 
-![alt text](image-11.png)
+![alt text](<Screenshot 2025-07-27 171107.png>)
 
-![alt text](image-12.png)
+![alt text](<Screenshot 2025-07-27 171134.png>)
+
 **Visualización Tabla De Resultados:**
 
-![alt text](image-13.png)
+![alt text](<Screenshot 2025-07-27 171310.png>)
 
 **Visualización Grafica De Resultados:** 
 
-![alt text](image-14.png)
-
-
-
-
-
+![alt text](<Screenshot 2025-07-27 171351.png>)
 
 
 ## Conclusiones
