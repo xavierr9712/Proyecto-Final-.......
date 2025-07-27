@@ -164,7 +164,7 @@ Se utilizan estructuras como matrices, listas, colas, pilas, mapas y conjuntos p
 
 **olacamos Incion y Fin:** 
 
-![alt text](image-1.png)
+![alt text](<Inicio Fin.png>)
 
 **Colacamos Obstaculos:** 
 
