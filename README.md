@@ -168,7 +168,7 @@ Se utilizan estructuras como matrices, listas, colas, pilas, mapas y conjuntos p
 
 **Colacamos Obstaculos:** 
 
-![alt text](<image-2.png>)
+![alt text](<Colocamos Obsataculos.png>)
 
 **Visualización BFS:** 
 
