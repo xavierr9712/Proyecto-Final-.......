@@ -172,7 +172,7 @@ Se utilizan estructuras como matrices, listas, colas, pilas, mapas y conjuntos p
 
 **Visualización BFS:** 
 
-![alt text](image-3.png)
+![alt text](<Screenshot 2025-07-27 170555.png>)
 
 ![alt text](image-4.png)
 
