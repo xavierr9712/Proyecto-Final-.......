@@ -1,0 +1,4 @@
+BFS,55,3,20x20
+DFS,143,2,20x20
+Recursivo (4 dir),181,0,20x20
+Recursivo (4 dir + BT),181,0,20x20
