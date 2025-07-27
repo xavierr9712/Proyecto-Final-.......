@@ -162,13 +162,13 @@ Se utilizan estructuras como matrices, listas, colas, pilas, mapas y conjuntos p
 - **Interfaz Principal:**  
 ![alt text](<Interfaz Principal.png>)
 
-**olacamos Incion y Fin:** 
+**Colacamos Incion y Fin:** 
 
 ![alt text](<Inicio Fin.png>)
 
 **Colacamos Obstaculos:** 
 
-![alt text](image-2.png)
+![alt text](<image-2.png>)
 
 **Visualización BFS:** 
 
